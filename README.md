@@ -1,13 +1,20 @@
 ## Olá, me chamo Hadriel
 
+  - :office:Profissão: Auxiliar Administrativo
+  - Formação: Técnico em Informática
+  - Objetivo atual: Analista de BI
 
 
-# - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Habilidades
+
+  - MySQL
+  - Metabase
+  - Power BI
+  - Excel
+  - Python
+    
+    
+
+
+
+ 
